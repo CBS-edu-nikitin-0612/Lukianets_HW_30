@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Lukianets_HW_30\Task2.csproj", "{B7E1CA2D-CAD2-4711-99F4-3DA2C130DDF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalTask", "AdditionalTask\AdditionalTask.csproj", "{A5232DBB-A7A4-4688-8044-1B3936855938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{70669310-1D12-4135-87BF-EC6610829387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E1CA2D-CAD2-4711-99F4-3DA2C130DDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E1CA2D-CAD2-4711-99F4-3DA2C130DDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E1CA2D-CAD2-4711-99F4-3DA2C130DDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E1CA2D-CAD2-4711-99F4-3DA2C130DDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5232DBB-A7A4-4688-8044-1B3936855938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5232DBB-A7A4-4688-8044-1B3936855938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5232DBB-A7A4-4688-8044-1B3936855938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5232DBB-A7A4-4688-8044-1B3936855938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70669310-1D12-4135-87BF-EC6610829387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70669310-1D12-4135-87BF-EC6610829387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70669310-1D12-4135-87BF-EC6610829387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70669310-1D12-4135-87BF-EC6610829387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D89D7BF-A94D-4456-817D-8F6F01DB3BD0}
+	EndGlobalSection
+EndGlobal
